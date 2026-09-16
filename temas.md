@@ -2,9 +2,10 @@
 
 ### 14/09 · Mis aficiones
 
-Llevo jugando al balonmano desde los ocho años, en el equipo
-del pueblo. Lo que más me gusta no es marcar, es el momento
-en que sale una jugada que habíamos entrenado veinte veces
-y por fin sale. Entreno martes y jueves, y los sábados hay
-partido. También llevo dos años tocando la guitarra, aunque
-ahí voy mucho más lento: me sé cuatro canciones y media.
+Me gusta mucho jugar al tenis desde hace un par de años. Lo probé por hacer algo de deporte sin imaginarme que iba a llegar a ser algo tan significante en mi vida, porque cuando juego a tenis desconecto de todo lo demás, no pienso en nada más y me ayuda a despejar si tengo algún problema. Además, me encanta verme mejorar cada día y que cada día soy capaz de hacer cosas nuevas y estar más cerca de ser una jugadora importante. Mi mete es poder llegar a ser como Carlos Alcaraz y siento que cada día estoy más cerca.
+
+Buscando en GitHub he encontrado (https://github.com/emilybache/Tennis-Refactoring-Kata) que es una página que habla sobre las normas para jugar a tenis.
+
+(<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/a428e80f-d3f7-4783-9442-9f9ed831f9ce" />)
+
+---
