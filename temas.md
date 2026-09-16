@@ -6,6 +6,6 @@ Me gusta mucho jugar al tenis desde hace un par de años. Lo probé por hacer al
 
 Buscando en GitHub he encontrado (https://github.com/emilybache/Tennis-Refactoring-Kata) que es una página que habla sobre las normas para jugar a tenis.
 
-(<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/a428e80f-d3f7-4783-9442-9f9ed831f9ce" />)
+<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/a428e80f-d3f7-4783-9442-9f9ed831f9ce" />
 
 ---
