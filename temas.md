@@ -16,6 +16,6 @@ El jurado ha decidido darle a él el premio por su gran talento, su increíble t
 Yo escogí a Leo Messi por que me encantan los deportes y me parece una buena persona tanto con el resto del mundo como dentro del campo y eso es algo que pocos siguen haciendo. Creo que merece él el premio después de tanto esfuerzo.
 [Su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/)
 
-![Imagen de Leo Messi](https://commons.wikimedia.org/wiki/File:Lionel_Messi_-_ARG_vs_MEX_-_FIFA_World_Cup_2022.jpg#/media/File:Lionel_Messi_-_ARG_vs_MEX_-_FIFA_World_Cup_2022.jpg)
+[Imagen de Leo Messi](https://upload.wikimedia.org/wikipedia/commons/7/7f/Lionel_Messi_-_ARG_vs_MEX_-_FIFA_World_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ---
