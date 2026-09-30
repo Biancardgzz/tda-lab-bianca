@@ -9,7 +9,7 @@ Buscando en GitHub he encontrado [web de tenis](https://github.com/emilybache/Te
 <img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/a428e80f-d3f7-4783-9442-9f9ed831f9ce" />
 
 ---
-### DD/MM · Premios Princesa de Asturias: Leo Messi
+### 30/09 · Premios Princesa de Asturias: Leo Messi
 
 Leo Messi es uno de los futbolistas más importantes que existen hoy en día y que desde pequeño siempre mostró un gran talento en el fútbol. Comenzó jugando en el CF Barcelona, luego en el Paris Saint-Germain y por último en el Inter Miami CF. Además de que también formó parte de la Selección Argentina. Este año se retiró de su carrera como futbolista.
 El jurado ha decidido darle a él el premio por su gran talento, su increíble trayectoria deportiva y por lo que hace para ayudar con la salud de los niños menos sanos, ya que el sufrió un problema de crecimiento. Además, de que es el futbolista con más premios y el que muestra mucho respeto, humildad y dedicación en el campo.
