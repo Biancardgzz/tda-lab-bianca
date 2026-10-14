@@ -23,6 +23,7 @@ Yo escogí a Leo Messi por que me encantan los deportes y me parece una buena pe
 Ada es hija del famoso Lord Byron y de Anna Isabella Milbanke. Ada Lovelace fue una matemática y escritora británica que nació en Londres en 1815. Desde pequeña, le gustaban mucho las matemáticas y cuando tenía 18 años, conoció a Charles Babbage, un inventor. Ada colaboró con él y escribió una serie de instrucciones para que la máquina que fabricaba Charles pudiera realizar operaciones matemáticas. Murió en 1852 con 36 años, pero su figura se ha convertido en un ícono inspirador para las mujeres en la ciencia y la tecnología. Cada año, el segundo martes de octubre, se celebra el Día Internacional de Ada Lovelace para reconocer los logros de las mujeres en la ciencia y la tecnología, y destacar su importancia en la historia de la informática y la programación. [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![Ada Lovelace](capturas/Ada_lovelace.jpg){: width="300"}
+
 *Imagen de Ada Lovelace. Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_lovelace.jpg)*
 
 ---
