@@ -45,8 +45,8 @@ La Voyager 1 es una sonda espacial de la NASA que despegó el 5 de septiembre de
 
 **Mi Disco de Oro 2026**
 
-- **Lo que pondría:** Una fotografía de la Tierra vista desde el espacio, y la frase: «Aunque somos diferentes, compartimos el mismo planeta».
-- **En qué idioma:** Español e inglés.
+- **Lo que pondría:** Una fotografía de la Tierra vista desde el espacio, y la frase: «Vengan a visitarnos cuando tengan tiempo».
+- **En qué idioma:** Español.
 - **En qué formato:** Un disco digital con imágenes, música y grabaciones de voz.
 
 ---
