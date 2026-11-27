@@ -40,12 +40,12 @@ La Voyager 1 es una sonda espacial de la NASA que despegó el 5 de septiembre de
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
 
-![Modelo de la sonda espacial Voyager 1](capturas/voyager.jpg){: width="300"}
-*Modelo de la Voyager 1. Imagen: julek, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager1.jpg)*
+![Modelo de la sonda espacial Voyager](capturas/Voyager.jpg){: width="300"}
+*Modelo de la Voyager 1. Imagen: NASA/JPL-Caltech, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager.jpg)*
 
 **Mi Disco de Oro 2026**
 
-- **Lo que pondría:** Una fotografía de la Tierra vista desde el espacio, la canción *Imagine* de John Lennon y una frase: «Aunque somos diferentes, compartimos el mismo planeta».
+- **Lo que pondría:** Una fotografía de la Tierra vista desde el espacio, y la frase: «Aunque somos diferentes, compartimos el mismo planeta».
 - **En qué idioma:** Español e inglés.
 - **En qué formato:** Un disco digital con imágenes, música y grabaciones de voz.
 
