@@ -28,3 +28,25 @@ Ada es hija del famoso Lord Byron y de Anna Isabella Milbanke. Ada Lovelace fue 
 
 ---
 
+### 27/11 · Voyager 1
+
+La Voyager 1 es una sonda espacial de la NASA que despegó el 5 de septiembre de 1977 para explorar los planetas exteriores. Ahora es noticia porque el 18 de noviembre de 2026 alcanzó una distancia de un día-luz de la Tierra, convirtiéndose en el objeto humano más lejano. Lleva un Disco de Oro con imágenes, música, sonidos naturales y saludos de nuestro planeta, pensado como mensaje para posibles civilizaciones extraterrestres. Puedes conocer más en [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1).
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 5 de septiembre de 1977 |
+| Distancia a la Tierra | 25.900.000.000 km |
+| Velocidad | 61.000 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+
+![Modelo de la sonda espacial Voyager 1](capturas/voyager.jpg){: width="300"}
+*Modelo de la Voyager 1. Imagen: julek, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager1.jpg)*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** Una fotografía de la Tierra vista desde el espacio, la canción *Imagine* de John Lennon y una frase: «Aunque somos diferentes, compartimos el mismo planeta».
+- **En qué idioma:** Español e inglés.
+- **En qué formato:** Un disco digital con imágenes, música y grabaciones de voz.
+
+---
